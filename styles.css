@@ -1,0 +1,56 @@
+@font-face {
+  font-family: TNG;
+  src: url(TNG_Credits.ttf);
+
+}
+body {
+    background-image: url("stars.jpg");
+    color: white;
+    font-family: TNG;
+    margin: 0;
+
+
+
+}
+.single {
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.worf {
+  height: 300px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.left {
+  height: 300px;
+  width: 400px;
+  left: 100px;
+  padding-left: 100px
+
+
+}
+
+.right {
+  height: 300px;
+  width: 400px;
+  position: relative;
+  left: 250px;
+
+}
+
+
+p {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 50px
+}
+span {
+  font-weight: bold
+}
