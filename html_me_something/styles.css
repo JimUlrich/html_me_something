@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'tng'
+    src: url("TNG_Credits.ttf");
+}
+body {
+    background-image: url("stars.jpg");
+    color: white;
+    margin: 0;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: 'tng', 'Rambla', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+.single {
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.worf {
+  height: 300px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.left {
+  height: 300px;
+  width: 400px;
+  left: 100px;
+  padding-left: 100px
+
+
+}
+
+.right {
+  height: 300px;
+  width: 400px;
+  position: relative;
+  left: 250px;
+
+
+
+}
+
+
+p {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  font-family: 'Rambla', sans-serif;
+
+
+}
+
+span {
+  font-weight: bold
+}
+
+#tng {
+  height: 10px;
+  width: 25px;
+}
+
+#sw {
+  height: 10px;
+  width:25px
+}
