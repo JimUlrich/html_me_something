@@ -2,6 +2,10 @@
     font-family: 'tng'
     src: url("TNG_Credits.ttf");
 }
+a {
+  font-size: 100px;
+  align-self: center;
+}
 body {
     background-image: url("stars.jpg");
     color: white;
